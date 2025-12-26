@@ -1,6 +1,6 @@
 🛒 E-Commerce Sales Dashboard | Power BI
 
-📌 Project Overview -
+📌 Project Overview --
 
 This project showcases an interactive Power BI dashboard designed to analyze and visualize E-Commerce Sales Performance.
 It helps stakeholders track key performance indicators (KPIs) like Sales, Profit, Quantity, and Profit Margin — enabling better data-driven business decisions.
